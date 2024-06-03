@@ -1,0 +1,160 @@
+/* General Styles */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.wireframe-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #f5f5f5;
+  padding: 50px 0;
+}
+
+h1, h2, h3 {
+  margin: 0 0 10px 0;
+  font-weight: bold;
+  margin: 0 auto;
+
+}
+
+p {
+  margin: 0 0 15px 0;
+  line-height: 1.5;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 20px 30px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+}
+
+.header-content {
+  flex: 1;
+  margin: 0 auto;
+  
+}
+
+.header-image {
+  width: 200px; /* Adjust as needed */
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 0 30px;
+}
+
+.introduction,
+.platform-description,
+.contact-info {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.introduction button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.footer-image-container {
+  width: 100%;
+  height: 400px; /* Increased height */
+  background: url('../image/Container2_x2.svg') no-repeat center center/cover;
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.footer-content {
+  position: absolute;
+  bottom: 20px; /* Adjust as needed */
+  left: 50%;
+  transform: translateX(-50%);
+  color: #333;
+  text-align:center;
+  top: -900px;
+
+
+  z-index: 1;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.action-buttons button {
+  margin-right: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.otp-verification,
+.weekly-revision,
+.contact-us {
+  margin-bottom: 50px;
+}
+
+.otp-verification input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: calc(100% - 50px);
+}
+
+.weekly-revision {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+
+.revision-time-table,
+.revision-details {
+  flex: 1;
+}
+
+.revision-time-table .schedule .dots {
+  display: flex;
+  justify-content: space-between;
+}
+
+.revision-time-table .schedule .dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #333;
+}
+.footer-image-container {
+  width: 100%;
+  height: 4000px; /* Increased height */
+  background: url('../image/Container2_x2.svg') no-repeat center center;
+  background-size: 100% 100%; /* Stretches image to fit container */
+  position:relative;
+  margin-bottom: 50px;
+  top: -500px;
+}

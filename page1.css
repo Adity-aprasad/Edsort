@@ -1,0 +1,173 @@
+.page-1 .container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    box-sizing: border-box;
+  }
+  .page-1 .container-1 {
+    margin: 0 0 9px 176.4px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .page-1 .container-2 {
+    margin: 0 0 13px 172.2px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .page-1 {
+    background: #FFFCFC;
+    display: flex;
+    padding: 47px 119px 0 119px;
+    width: 1280px;
+    box-sizing: border-box;
+  }
+  .page-1 .component-1 {
+    position: absolute;
+    top: 73px;
+    right: 302px;
+    width: 106px;
+    height: 149px;
+  }
+  .page-1 .welcome {
+    position: absolute;
+    top: 211px;
+    right: 254.1px;
+    overflow-wrap: break-word;
+    font-family: 'Abril Fatface';
+    font-weight: 400;
+    font-size: 40px;
+    color: #000000;
+  }
+  .page-1 .login {
+    overflow-wrap: break-word;
+    font-family: 'Abril Fatface';
+    font-weight: 400;
+    font-size: 40px;
+    color: #FFFFFF;
+  }
+  .page-1 .line-13 {
+    background: #000000;
+    margin-bottom: 73px;
+    width: 473px;
+    height: 2px;
+  }
+  .page-1 .line-14 {
+    background: #000000;
+    margin-bottom: 1px;
+    width: 473px;
+    height: 2px;
+  }
+  .page-1 .username {
+    margin: 5px 0 4px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'ABeeZee';
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+  }
+  .page-1 .password {
+    margin-top: 9px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'ABeeZee';
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+  }
+  .page-1 .forgot-password {
+    margin: 0 7.3px 54px 7.3px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Abhaya Libre ExtraBold', 'Roboto Condensed';
+    font-weight: 800;
+    font-size: 26px;
+    color: #000000;
+  }
+  .page-1 .lock {
+    background: url('../image/Lock.png') 50% / contain no-repeat;
+    width: 54px;
+    height: 37px;
+  }
+  .page-1 .user {
+    background: url('../image/User.png') 50% / contain no-repeat;
+    width: 54px;
+    height: 37px;
+  }
+  .page-1 .ed-sort {
+    margin-bottom: 1px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Abril Fatface';
+    font-weight: 400;
+    font-size: 40px;
+    color: #000000;
+  }
+  .page-1 .learn-together-grow-together {
+    margin-bottom: 39px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+  }
+  .page-1 .rectangle-57 {
+    background: #EEEDEE;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+  }
+  .page-1 .rectangle-58 {
+    position: absolute;
+    left: 0px;
+    top: -34px;
+    width: 908px;
+    height: 866px;
+  }
+  .page-1 .dont-have-an-account-sign-up {
+    margin-left: 486.9px;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: 'Abel';
+    font-weight: 400;
+    font-size: 22px;
+    color: #000000;
+  }
+  .page-1 .rectangle-54 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 882px;
+    height: 832px;
+  }
+  .page-1 .ellipse-11 {
+    border-radius: 75px;
+    background: #86A1E8;
+    margin: 0 0 2px 490px;
+    align-self: center;
+    width: 150px;
+    height: 150px;
+  }
+  .page-1 .container-3 {
+    border-radius: 20px;
+    background: #0646EB;
+    position: relative;
+    margin: 0 81px 15px 81px;
+    display: flex;
+    padding: 0 0 13px 0.8px;
+    width: 311px;
+    box-sizing: border-box;
+  }

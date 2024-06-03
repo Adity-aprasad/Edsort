@@ -1,0 +1,186 @@
+ .container-1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .take-quiz {
+    border: 1px solid #FFFFFF;
+    overflow-wrap: break-word;
+    font-family: 'Asap';
+    font-weight: 400;
+    font-size: 32px;
+    color: #FFFFFF;
+  }
+  .your-one-stop-destination-for-amore-fun-learning {
+    margin: 0 22.6px 0 43px;
+    overflow-wrap: break-word;
+    font-family: 'Asap';
+    font-weight: 400;
+    font-size: 32px;
+    color: #000000;
+  }
+ .start-learning-with-ed-sort {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Abril Fatface';
+    font-weight: 400;
+    font-size: 40px;
+    color: #000000;
+  }
+ 
+ .start-learning-with-ed-sort {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Abril Fatface';
+    font-weight: 400;
+    font-size: 40px;
+    color: #000000;
+  }
+  .rectangle-25 {
+    position: absolute;
+    left: -51px;
+    top: 2832px;
+    width: 1539px;
+    height: 323px;
+  }
+ .rectangle-26 {
+    position: absolute;
+    top: 2557px;
+    right: -48px;
+    width: 1517px;
+    height: 323px;
+  }
+   .rectangle-52 {
+    position: absolute;
+    left: 50%;
+    top: 3247px;
+    translate: -50% 0;
+    width: 1440px;
+    height: 883px;
+  }
+   .ed-sort-1 {
+    margin: 0 101px 18px 101px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Abril Fatface';
+    font-weight: 400;
+    font-size: 48px;
+    color: #FFFFFF;
+  }
+   .edsort-aims-to-make-education-fun-and-exciting-by-offering-avibrant-community-interactive-and-personalized-learning-experiences-our-platform-is-designed-for-collaborative-learning-fostering-growth-together {
+    margin: 3px 105px 7px 0;
+    display: inline-block;
+    width: 594px;
+    overflow-wrap: break-word;
+    font-family: 'Adamina';
+    font-weight: 400;
+    font-size: 22px;
+    color: #FFFFFF;
+  }
+  .get-your-questions-answered-about-learning-with-ed-sort-call-919631121762-email {
+    font-family: 'Arimo';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 1.333;
+  }
+  .get-your-questions-answered-about-learning-with-ed-sort-call-919631121762-email-sub78 {
+    font-family: 'Arsenal', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 1.333;
+  }
+  .get-your-questions-answered-about-learning-with-ed-sort-call-919631121762-email-sub82 {
+    font-family: 'Arimo';
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 1.333;
+  }
+  .get-your-questions-answered-about-learning-with-ed-sort-call-919631121762-email-sub86 {
+    font-family: 'Arimo';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 1.333;
+  }
+.get-your-questions-answered-about-learning-with-ed-sort-call-919631121762-email {
+    margin: 0 101px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Abril Fatface';
+    font-weight: 400;
+    font-size: 48px;
+    color: #FFFFFF;
+  }
+ .phone {
+    background: url('../image/phone.png') 50% / contain no-repeat;
+    position: absolute;
+    left: 101px;
+    bottom: 211px;
+    width: 48px;
+    height: 67px;
+  }
+ .contact-us {
+    position: absolute;
+    left: 101px;
+    bottom: 317px;
+    overflow-wrap: break-word;
+    font-family: 'Abril Fatface';
+    font-weight: 400;
+    font-size: 40px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+  }
+ .edsortlearninggmail-com {
+    position: absolute;
+    left: 277px;
+    bottom: 181px;
+    overflow-wrap: break-word;
+    font-family: 'Arimo';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  .company-about-us-privacy-policy-terms-and-conditions {
+    font-family: 'Alata', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.333;
+    color: #ECECEC;
+  }
+  .company-about-us-privacy-policy-terms-and-conditions-sub176 {
+    font-family: 'Alata', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 1.333;
+    color: #D9D9D9;
+  }
+ .company-about-us-privacy-policy-terms-and-conditions {
+    margin: 0 37.9px 66px 0;
+    overflow-wrap: break-word;
+    font-family: 'Abril Fatface';
+    font-weight: 400;
+    font-size: 40px;
+    color: #4D4E51;
+  }
+.container-17 {
+    margin: 0 138px 422px 138px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+.container-20 {
+    border-radius: 20px;
+    background: #2963FA;
+    position: relative;
+    margin: 42px 0 11px 0;
+    display: flex;
+    padding: 23px 0.2px 30px 0;
+    width: 435px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
